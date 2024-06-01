@@ -7,7 +7,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -27,11 +26,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
-
-### Links
-
-- [Solution URL](https://github.com/liviagomesa/introductory-section)
-- [Live Site URL](https://liviagomesa.github.io/introductory-section/)
 
 ## My process
 
